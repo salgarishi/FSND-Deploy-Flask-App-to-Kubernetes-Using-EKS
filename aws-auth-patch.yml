@@ -21,7 +21,7 @@ metadata:
     fieldsV1:
       f:data:
         .: {}
-        f:mapUsers: {}
+        f:mapUsers: {}           
     manager: eksctl.exe
     operation: Update
     time: "2021-05-26T07:38:15Z"
